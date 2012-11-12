@@ -1,5 +1,5 @@
 def ohjaa_ledeja(signaali):
-    if signaali = True:
+    if signaali = False:
         ledien_virta(1)
     else
         ledien_virta(0)
